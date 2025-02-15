@@ -28,9 +28,6 @@ Follow these steps to run the project:
    flutter run
    ```
 
-## **Screenshots**
-(Add screenshots of your app here)
-
 ## **Resources**
 
 If you're new to Flutter, here are some useful resources:
